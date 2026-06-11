@@ -1,4 +1,4 @@
-# 📰 Automated Newsroom
+# 📰 Faxum Press - Automated Newsroom 
 
 An AI-powered news aggregation platform that auto-detects trending topics worldwide, fetches
 articles from multiple sources, embeds them into a vector store, and serves them on an
