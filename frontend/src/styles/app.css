@@ -1,0 +1,9 @@
+/* Master stylesheet — imports all modular styles. */
+@import "./base.css";
+@import "./navbar.css";
+@import "./hero.css";
+@import "./dashboard.css";
+@import "./featured.css";
+@import "./trending.css";
+@import "./footer.css";
+@import "./pages.css";
