@@ -20,6 +20,9 @@ interactive React dashboard — **with no user input required to start reading t
 
 ![alt text](/pics/dashboard_3.PNG)
 
+## Preview  - RAG Pipeline
+
+![alt text](/pics/dashboard_4.PNG)
 
 
 
