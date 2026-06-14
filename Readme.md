@@ -8,9 +8,13 @@ interactive React dashboard — **with no user input required to start reading t
 > Stack: **FastAPI · LangChain · Google Gemini (swappable) · HuggingFace embeddings · ChromaDB · APScheduler · React + Vite + TypeScript**
 
 ---
-## Preview  - Politics
+## Preview  - Dashoboard
 
 ![alt text](/pics/dashboard_1.PNG)
+
+## Preview  - Politics
+
+![alt text](/pics/dashboard_2.PNG)
 
 ## Preview  - Techonology
 
